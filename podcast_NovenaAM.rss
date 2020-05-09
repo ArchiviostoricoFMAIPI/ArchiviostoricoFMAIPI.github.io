@@ -5,8 +5,8 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
 		<atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
-		<title>{{ site.title }}</title>
-		<description>{{ site.description | xml_escape }}</description>
+		<title>Novena sr Teresa Valsè Pantellini AM</title>
+		<description>5 minuti con sr Teresa Valsè Pantellini</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
@@ -28,11 +28,11 @@ layout: null
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
-		<itunes:category text="Arts" />
-		<itunes:category text="Religion &amp; Spirituality" />
-		<itunes:category text="Society &amp; Culture" />
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Religion" />
+		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-		{% for post in site.posts %}
+		{% for post in site.categories.NovenaAM %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
