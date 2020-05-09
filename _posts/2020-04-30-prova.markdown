@@ -1,4 +1,4 @@
---- #devono esserci sempre 
+---
 layout: post #devo lasciarlo così
 title: "1 giorno" #devo cambiare il nome, lasciando tra virgolette, è il nome dell'episodio del podcast
 categories: [NovenaAM] #la categoria dove metto l'episodio [novena AM] meglio fare un podcast per ogni categoria, un po' come la playlist. NB non lasciare spazi
@@ -7,10 +7,9 @@ date: 2020-04-30 00:00:00 #la data dovrebbe essere quella dell'invio del podcast
 #In caso che non lo siano nell'ordine che vuoi cambia l'ora.
 File: //ArchiviostoricoFMAIPI.github.io/mp3s/2 palazzo municipale.mp3 #File: // nome sito. nome cartella. Non serve scrivere due volte ArchiviostoricoFMAIPI. nome file, puoi caricarti tante sottocartelle in mp3s...mp3s/sottocartella/nome file.mp3 NB solo Mp3!
 #deve essere sempre in github, internet utilizza questi flash ////
-summary: "1 giorno" # descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
+summary: "1 giorno" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
 duration: "01:38" #durata: la durata del file, va inserito manualmente, non lo fa il programma
-length: "3938247" # la lunghezza si trova in proprietà / dimensioni NB in byte
-image: //immagini/giorno 1.jpg # l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini
+length: "3938247" #la lunghezza si trova in proprietà / dimensioni NB in byte
+image: //immagini/giorno 1.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini
 #i nomi delle categorie devono essere diversi
-#NB Devi salvare in .marcdown
 ---
