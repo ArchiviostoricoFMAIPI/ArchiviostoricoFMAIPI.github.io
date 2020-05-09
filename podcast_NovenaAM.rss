@@ -4,7 +4,7 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
-		<atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.url }}/podcast_NovenaAM.rss" rel="self" type="application/rss+xml" />
 		<title>Novena sr Teresa Valsè Pantellini AM</title>
 		<description>5 minuti con sr Teresa Valsè Pantellini</description>
 		<link>{{ site.url }}</link>
