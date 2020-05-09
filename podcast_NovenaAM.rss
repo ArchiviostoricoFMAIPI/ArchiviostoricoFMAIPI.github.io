@@ -16,7 +16,7 @@ layout: null
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/Immagini/giornobianco.jpg</url>
+			<url>{{ site.url }}/immagini/giornobianco.jpg</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -27,7 +27,7 @@ layout: null
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/Immagini/giornobianco.jpg" />
+		<itunes:image href="{{ site.url }}/immagini/giornobianco.jpg" />
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Religion" />
 		</itunes:category>
