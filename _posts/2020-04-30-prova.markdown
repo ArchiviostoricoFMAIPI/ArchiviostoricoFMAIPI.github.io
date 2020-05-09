@@ -15,4 +15,4 @@ image: //immagini/giorno 1.jpg # l'immagine che vuoi mettere, è la cartella su 
 
 #i nomi delle categorie devono essere diversi
 
-°NB Devi salvare in .marcdown
+#NB Devi salvare in .marcdown
