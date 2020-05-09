@@ -11,8 +11,6 @@ summary: "1 giorno" # descrizione dell'episodio. es. 1 giorno. la descrizione de
 duration: "01:38" #durata: la durata del file, va inserito manualmente, non lo fa il programma
 length: "3938247" # la lunghezza si trova in proprietà / dimensioni NB in byte
 image: //immagini/giorno 1.jpg # l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini
----
-
 #i nomi delle categorie devono essere diversi
-
 #NB Devi salvare in .markdown
+---
