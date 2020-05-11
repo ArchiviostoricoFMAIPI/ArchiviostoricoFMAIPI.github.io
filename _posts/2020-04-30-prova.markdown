@@ -10,6 +10,6 @@ file: //ArchiviostoricoFMAIPI.github.io/mp3s/2palazzomunicipale.mp3 #File: // no
 summary: "1 giorno" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
 duration: "01:38" #durata: la durata del file, va inserito manualmente, non lo fa il programma
 length: "3938247" #la lunghezza si trova in proprietà / dimensioni NB in byte
-image: //Immagini/giorno1.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
+image: //immagini/giorno1.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
 #i nomi delle categorie devono essere diversi
 ---
