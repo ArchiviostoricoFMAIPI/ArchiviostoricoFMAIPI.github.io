@@ -10,6 +10,6 @@ file: //ArchiviostoricoFMAIPI.github.io/mp3s/srtvp/8giornonovenaam.mp3 #File: //
 summary: "8 giorno" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
 duration: "04:30" #durata: la durata del file, va inserito manualmente, non lo fa il programma
 length: "10814721" #la lunghezza si trova in proprietà / dimensioni NB in byte
-image: //immagini/novenatam/giorno8.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
+image: //immagini/novenatam/giorno8.Jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
 #i nomi delle categorie devono essere diversi
 ---
