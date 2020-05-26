@@ -4,9 +4,9 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
-		<atom:link href="{{ site.url }}/podcast_Archiviostoricofmaipi.rss" rel="self" type="application/rss+xml" />
-		<title>Podcast dell'Archivio storico FMA IPI</title>
-		<description>tutti i podcast dell'Archivio Storico</description>
+		<atom:link href="{{ site.url }}/podcast_NovenaAM.rss" rel="self" type="application/rss+xml" />
+		<title>Novena sr Teresa Valsè Pantellini AM</title>
+		<description>5 minuti con sr Teresa Valsè Pantellini</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
@@ -16,7 +16,7 @@ layout: null
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/immagini/archiviostorico/logopodcast.jpg</url>
+			<url>{{ site.url }}/immagini/novenatam/giornobianco.png</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -27,12 +27,12 @@ layout: null
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/immagini/archiviostorico/logopodcast.jpg" />
+		<itunes:image href="{{ site.url }}/immagini/novenatam/giornobianco.png" />
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Religion" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-		{% for post in site.categories.Archiviostoricofmaipi %}
+		{% for post in site.categories.NovenaAM %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
