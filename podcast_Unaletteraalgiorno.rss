@@ -1,13 +1,12 @@
 ---
 layout: null
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
 		<atom:link href="{{ site.url }}/podcast_Unaletteraalgiorno.rss" rel="self" type="application/rss+xml" />
 		<title>Una lettera al giorno</title>
-		<description>"Le lettere di Madre Mazzarello scritte da Nizza Monferrato"</description>
+		<description>Le lettere di Madre Mazzarello scritte da Nizza Monferrato</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
@@ -28,12 +27,12 @@ layout: null
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/immagini/Archiviostorico/lettere/0unaletteraalgiono.jpg" />
+		<itunes:image href="{{ site.url }}/immagini/Archiviostorico/lettere/0unaletteraalgiono.jpg"/>
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Religion" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-		{% for post in site.categories.Unaletteraalgiorno %}
+		{% for post in site.categories.Archiviostorico %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
@@ -53,3 +52,4 @@ layout: null
 		{% endfor %}
 	</channel>
 </rss>
+---
