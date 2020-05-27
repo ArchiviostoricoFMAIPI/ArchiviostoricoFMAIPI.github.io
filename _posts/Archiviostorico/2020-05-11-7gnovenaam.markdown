@@ -10,6 +10,6 @@ file: //ArchiviostoricoFMAIPI.github.io/mp3s/Archiviostorico/7giornonovenaam.mp3
 summary: "7 giorno" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
 duration: "04:15" #durata: la durata del file, va inserito manualmente, non lo fa il programma
 length: "10532598" #la lunghezza si trova in proprietà / dimensioni NB in byte
-image: //immagini/Archiviostorico/giorno7.JPG #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
+image: //immagini/Archiviostorico/giorno7.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
 #i nomi delle categorie devono essere diversi
 ---
