@@ -1,6 +1,6 @@
 ---
 layout: post #devo lasciarlo così
-title: "1 giorno Novena sr Teresa Valsè Pantellini AM" #devo cambiare il nome, lasciando tra virgolette, è il nome dell'episodio del podcast
+title: "Podcast Archivio Storico FMA-IPI" #devo cambiare il nome, lasciando tra virgolette, è il nome dell'episodio del podcast
 categories: [Archiviostorico] #la categoria dove metto l'episodio [novena AM] meglio fare un podcast per ogni categoria, un po' come la playlist. NB non lasciare spazi
 date: 2020-05-26 00:00:01 #la data dovrebbe essere quella dell'invio del podcast, ma si può mettere una qualsiasi.
 #NB le date segnano l'ordine di caricamento, non il titolo, quindi quando le carichi, se vuoi un ordine, metti le date in ordine cronologico crescente.
