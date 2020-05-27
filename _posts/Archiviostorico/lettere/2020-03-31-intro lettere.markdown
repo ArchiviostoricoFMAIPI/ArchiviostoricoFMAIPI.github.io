@@ -10,6 +10,6 @@ file: //ArchiviostoricoFMAIPI.github.io/mp3s/Archiviostorico/lettere/0introunale
 summary: "Introduzione" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
 duration: "01:49" #durata: la durata del file, va inserito manualmente, non lo fa il programma
 length: "4364566" #la lunghezza si trova in proprietà / dimensioni NB in byte
-image: //immagini/Archiviostorico/lettere/0unaletteraalgiono.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
+image: //immagini/Archiviostorico/lettere/0unaletteraalgiornointro.jpg #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
 #i nomi delle categorie devono essere diversi
 ---
