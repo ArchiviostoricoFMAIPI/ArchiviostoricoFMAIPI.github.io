@@ -1,0 +1,15 @@
+---
+layout: post #devo lasciarlo così
+title: "9 giorno. 5' con sr Teresa" #devo cambiare il nome, lasciando tra virgolette, è il nome dell'episodio del podcast
+categories: [NovenaAM] #la categoria dove metto l'episodio [novena AM] meglio fare un podcast per ogni categoria, un po' come la playlist. NB non lasciare spazi
+date: 2020-05-11 00:00:09 #la data dovrebbe essere quella dell'invio del podcast, ma si può mettere una qualsiasi.
+#NB le date segnano l'ordine di caricamento, non il titolo, quindi quando le carichi, se vuoi un ordine, metti le date in ordine cronologico crescente.
+#In caso che non lo siano nell'ordine che vuoi cambia l'ora.
+file: //ArchiviostoricoFMAIPI.github.io/mp3s/srtvp/9giornonovenaam.mp3 #File: // nome sito. nome cartella. Non serve scrivere due volte ArchiviostoricoFMAIPI. nome file, puoi caricarti tante sottocartelle in mp3s...mp3s/sottocartella/nome file.mp3 NB solo Mp3!
+#deve essere sempre in github, internet utilizza questi flash ////
+summary: "9 giorno" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
+duration: "04:27" #durata: la durata del file, va inserito manualmente, non lo fa il programma
+length: "10715455" #la lunghezza si trova in proprietà / dimensioni NB in byte
+image: //immagini/novenatam/giorno9.JPG #l'immagine che vuoi mettere, è la cartella su PC dove metti le immagini, NB Attenzione alle maiuscole e minuscole
+#i nomi delle categorie devono essere diversi
+---
