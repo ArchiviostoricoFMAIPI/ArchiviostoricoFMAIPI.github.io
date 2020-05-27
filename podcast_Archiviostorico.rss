@@ -27,7 +27,7 @@ layout: null
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/immagini/Archiviostorico/logopodcast.jpg" />
+		<itunes:image href="{{ site.url }}/immagini/Archiviostorico/logopodcast.jpg"/>
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Religion" />
 		</itunes:category>
