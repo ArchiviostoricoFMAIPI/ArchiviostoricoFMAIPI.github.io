@@ -32,7 +32,7 @@ layout: null
 			<itunes:category text="Religion" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-		{% for post in site.categories.Archiviostorico %}
+		{% for post in site.categories.lettere %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
