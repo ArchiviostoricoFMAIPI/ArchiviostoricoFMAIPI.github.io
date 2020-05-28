@@ -1,4 +1,3 @@
-
 ---
 layout: post #devo lasciarlo così
 title: "5 giorno. 5' con sr Teresa" #devo cambiare il nome, lasciando tra virgolette, è il nome dell'episodio del podcast
