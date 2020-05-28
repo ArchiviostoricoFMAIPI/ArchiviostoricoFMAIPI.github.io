@@ -1,7 +1,7 @@
 ---
 layout: post #devo lasciarlo così
 title: "2 giorno. 5' con sr Teresa" #devo cambiare il nome, lasciando tra virgolette, è il nome dell'episodio del podcast
-categories: [Archiviostorico] #la categoria dove metto l'episodio [novena AM] meglio fare un podcast per ogni categoria, un po' come la playlist. NB non lasciare spazi
+categories: [Archiviostorico, NovenaAM] #la categoria dove metto l'episodio [novena AM] meglio fare un podcast per ogni categoria, un po' come la playlist. NB non lasciare spazi
 date: 2020-05-27 00:00:02 #la data dovrebbe essere quella dell'invio del podcast, ma si può mettere una qualsiasi.
 #NB le date segnano l'ordine di caricamento, non il titolo, quindi quando le carichi, se vuoi un ordine, metti le date in ordine cronologico crescente.
 #In caso che non lo siano nell'ordine che vuoi cambia l'ora.
