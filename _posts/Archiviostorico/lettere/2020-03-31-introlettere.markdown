@@ -6,7 +6,7 @@ categories: [Archiviostorico, Unaletteraalgiorno] #la categoria dove metto l'epi
 date: 2020-03-31 00:00:00 #la data dovrebbe essere quella dell'invio del podcast, ma si può mettere una qualsiasi.
 #NB le date segnano l'ordine di caricamento, non il titolo, quindi quando le carichi, se vuoi un ordine, metti le date in ordine cronologico crescente.
 #In caso che non lo siano nell'ordine che vuoi cambia l'ora.
-file: //ArchiviostoricoFMAIPI.github.io/mp3s/Archiviostorico/Unaletteraalgiorno/0introunaletteraalgiorno.mp3 #File: // nome sito. nome cartella. Non serve scrivere due volte ArchiviostoricoFMAIPI. nome file, puoi caricarti tante sottocartelle in mp3s...mp3s/sottocartella/nome file.mp3 NB solo Mp3!
+file: //ArchiviostoricoFMAIPI.github.io/mp3s/Archiviostorico/lettere/0introunaletteraalgiorno.mp3 #File: // nome sito. nome cartella. Non serve scrivere due volte ArchiviostoricoFMAIPI. nome file, puoi caricarti tante sottocartelle in mp3s...mp3s/sottocartella/nome file.mp3 NB solo Mp3!
 #deve essere sempre in github, internet utilizza questi flash ////
 summary: "Introduzione" #descrizione dell'episodio. es. 1 giorno. la descrizione dell'audio.
 duration: "01:49" #durata: la durata del file, va inserito manualmente, non lo fa il programma
