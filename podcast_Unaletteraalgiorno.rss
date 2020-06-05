@@ -5,7 +5,7 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
 		<atom:link href="{{ site.url }}/podcast_Unaletteraalgiorno.rss" rel="self" type="application/rss+xml" />
-		<title>Una lettera al giorno</title>
+		<title><p class="font-weight-bold">Una lettera al giorno</p></title>
 		<description> **Le lettere di Madre Mazzarello scritte da Nizza Monferrato** </description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
